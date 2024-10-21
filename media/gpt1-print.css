@@ -1,0 +1,50 @@
+/* Reset unnecessary styles for printing */
+body, #main {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 12pt;
+}
+
+#header-content, footer {
+    display: none; /* Hide header and footer during print */
+}
+
+nav ul {
+    display: none;
+}
+
+h1, h2, h3 {
+    color: #000;
+}
+
+#main {
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+}
+
+/* Ensure proper content width for print */
+@media print {
+    body {
+        width: 100%;
+    }
+
+    #content {
+        width: 100%;
+        padding: 0;
+    }
+
+    p, li {
+        font-size: 10pt;
+    }
+
+    h2, h3 {
+        font-size: 1.2em;
+        margin: 0.5em 0;
+    }
+
+    /* Page breaks for long documents */
+    section {
+        page-break-inside: avoid;
+    }
+}

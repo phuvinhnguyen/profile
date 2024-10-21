@@ -1,91 +1,110 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: cvp
+title: Nguyen Phu Vinh
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nguyen Phu Vinh
+Master's of Computer Science, Uppsala University - Sweden
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:phuvinhnguyen812002@gmail.com">phuvinhnguyen812002@gmail.com</a>
+| <a href="https://github.com/phuvinhnguyen">GitHub Profile</a>
 </div>
 
-
 ## Currently
-
-Standing on the shoulders of giants
+Pursuing a Master's Degree in Computer Science at Uppsala University
 
 ### Specialized in
+Machine Learning, Natural Language Processing, Large Language Models, Vision-Language models, and Explainable AI.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Research Interests
+Language Models, Code-to-Text Conversion, Video Retrieval, Hand Gesture Recognition, Vietnamese Language Understanding, and Question Answering Systems
 
+## Education & Achievements
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Sep 2024 - now`  
+**Uppsala University**  
+_Master's in Computer Science_  
 
 
+`Oct 2020 - Sep 2024`  
+**University of Science, Vietnam National University Ho Chi Minh City**  
+_Bachelor of Science in Computer Science_  
+APCS - Advanced Program in Computer Science (similar program with Portland State University)  
+- **IELTS**: 7.0  
+- **GRE**: 315  
+- **GPA**: 8.26/10
+- **Thesis Score**: 10/10
 
-## Awards
+`2017 - 2020`  
+**Nguyen Huu Huan High School**  
+Mathematics Class  
+- Bronze prize in Ho Chi Minh City Mathematics Competition for Advanced Students (Grade 12)  
+- **Score**: 8.5/10 (Grade 12)
 
-`2012`
-President, *Royal Society*, London, UK
+---
 
-Associate, *French Academy of Science*, Paris, France
+## Projects and Research Experience
 
+`2022 - 2024`  
+**Computational Linguistics Center - University of Science, Vietnam National University HCMC**  
+_Student Researcher_  
+- Explored language models for code-to-text conversion
+- Investigated integrating large language models (LLM) to enhance code documentation and comprehension  
 
+`Mar 2024 - Jun 2024`  
+**ViMedAQA**  
+_Team Member_
+- Created a dataset for question answering in Vietnamese medical contexts, utilizing LLMs  
+- Paper accepted at SRW-ACL 2024 ([Link](https://aclanthology.org/2024.acl-srw.31/))
 
-## Publications
+`Oct 2023 - Dec 2024`  
+**ViGLUE dataset**  
+_Team Member_  
+- Participated in creating a dataset to evaluate large language models on Vietnamese Language Understanding tasks  
+- Paper accepted at NAACL ([Link](https://aclanthology.org/2024.findings-naacl.261/))
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Aug 2023 - Dec 2023`  
+**Zalo AI Challenge**  
+_Participant_  
+- Developed methods for solving Vietnamese elementary math problems  
+- Applied large language models like OpenChat for easy problems and Llemma for more complex questions
 
-### Journals
+`Feb 2023 - May 2023`  
+**Hand Language Recognition**  
+_Team Leader_  
+- Developed models for translating hand gestures into text under low-resource.
+- Contributed to the web platform enabling communication via hand gestures
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`May 2023 - Aug 2023`  
+**Video Retriever for HCM AI Challenge 2023**  
+_Team Leader_
+- Led a team to implement a machine learning-based video search application  
+- Developed a website with a machine learning model to assist users in finding events from a list of videos
 
-`1669`
-Lectiones opticæ.
+`Feb 2024 - Apr 2024`  
+**AIC2024 - Track 2: Description Generation for Multi-Video**  
+_Participant_
+- Created a Vision-Language model based on Phi-1.5 and Blip2 Vision encoder  
+- Trained the model using a multi-task loss function  
+- Achieved a top 5 result in the competition
 
-etc. etc. etc.
+`Jun 2024 - Jul 2024`  
+**Vietnamese text retrieval**  
+_Author_
+- Create a new training loss function for constrastive learning
+- Create a new benchmark to evaluate Vietnamese language models on retrieval and reranking tasks
+- Accepted paper at PACLIC 38
 
-### Patents
+---
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Certifications & Skills
 
+- **Programming Languages**: Python, C++, Java
+- **Frameworks & Tools**: TensorFlow, PyTorch, Hugging Face
+- **Languages**: Vietnamese (Native), English (Fluent)  
+- **Other Skills**: Machine Learning, Deep Learning, Data Analysis, NLP
 
-## Occupation
+---
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## References
+Available upon request
