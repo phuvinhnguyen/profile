@@ -1,5 +1,5 @@
 ---
-layout: cvp
+layout: cv
 title: Nguyen Phu Vinh
 ---
 # Nguyen Phu Vinh
@@ -40,8 +40,6 @@ APCS - Advanced Program in Computer Science (similar program with Portland State
 Mathematics Class  
 - Bronze prize in Ho Chi Minh City Mathematics Competition for Advanced Students (Grade 12)  
 - **Score**: 8.5/10 (Grade 12)
-
----
 
 ## Projects and Research Experience
 
@@ -95,16 +93,12 @@ _Author_
 - Create a new benchmark to evaluate Vietnamese language models on retrieval and reranking tasks
 - Accepted paper at PACLIC 38
 
----
-
 ## Certifications & Skills
 
 - **Programming Languages**: Python, C++, Java
 - **Frameworks & Tools**: TensorFlow, PyTorch, Hugging Face
 - **Languages**: Vietnamese (Native), English (Fluent)  
 - **Other Skills**: Machine Learning, Deep Learning, Data Analysis, NLP
-
----
 
 ## References
 Available upon request
