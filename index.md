@@ -6,25 +6,24 @@ title: Nguyen Phu Vinh
 Master's of Computer Science, Uppsala University - Sweden
 
 <div id="webaddress">
-<a href="mailto:phuvinhnguyen812002@gmail.com">phuvinhnguyen812002@gmail.com</a>
-| <a href="https://github.com/phuvinhnguyen">GitHub Profile</a>
+    <a href="mailto:phuvinhnguyen812002@gmail.com">phuvinhnguyen812002@gmail.com</a>
+|   <a href="https://github.com/phuvinhnguyen">GitHub Profile</a>
 </div>
 
 ## Currently
 Pursuing a Master's Degree in Computer Science at Uppsala University
 
 ### Specialized in
-Machine Learning, Natural Language Processing, Large Language Models, Vision-Language models, and Explainable AI.
+Machine Learning, Natural Language Processing, Large Language Models, Vision-Language models, Knowledge Graph, and Explainable AI.
 
 ### Research Interests
-Language Models, Code-to-Text Conversion, Video Retrieval, Hand Gesture Recognition, Vietnamese Language Understanding, and Question Answering Systems
+Language Models, Multimodal, Explainable AI and RAG systems.
 
 ## Education & Achievements
 
 `Sep 2024 - now`  
 **Uppsala University**  
 _Master's in Computer Science_  
-
 
 `Oct 2020 - Sep 2024`  
 **University of Science, Vietnam National University Ho Chi Minh City**  
@@ -37,7 +36,7 @@ APCS - Advanced Program in Computer Science (similar program with Portland State
 
 `2017 - 2020`  
 **Nguyen Huu Huan High School**  
-Mathematics Class  
+Math Specialized Class
 - Bronze prize in Ho Chi Minh City Mathematics Competition for Advanced Students (Grade 12)  
 - **Score**: 8.5/10 (Grade 12)
 
@@ -47,12 +46,13 @@ Mathematics Class
 **Computational Linguistics Center - University of Science, Vietnam National University HCMC**  
 _Student Researcher_  
 - Explored language models for code-to-text conversion
-- Investigated integrating large language models (LLM) to enhance code documentation and comprehension  
+- Researched methods to generate and visualize charts using generative language models
+- Investigated integrating large language models (LLMs) for Vietnamese language
 
 `Mar 2024 - Jun 2024`  
 **ViMedAQA**  
 _Team Member_
-- Created a dataset for question answering in Vietnamese medical contexts, utilizing LLMs  
+- Created a dataset for question answering in Vietnamese medical contexts, utilizing LLMs
 - Paper accepted at SRW-ACL 2024 ([Link](https://aclanthology.org/2024.acl-srw.31/))
 
 `Oct 2023 - Dec 2024`  
@@ -70,7 +70,7 @@ _Participant_
 `Feb 2023 - May 2023`  
 **Hand Language Recognition**  
 _Team Leader_  
-- Developed models for translating hand gestures into text under low-resource.
+- Developed models for translating hand gestures into text under low-resource
 - Contributed to the web platform enabling communication via hand gestures
 
 `May 2023 - Aug 2023`  
@@ -93,12 +93,12 @@ _Author_
 - Create a new benchmark to evaluate Vietnamese language models on retrieval and reranking tasks
 - Accepted paper at PACLIC 38
 
-## Certifications & Skills
+## Skills
 
 - **Programming Languages**: Python, C++, Java
-- **Frameworks & Tools**: TensorFlow, PyTorch, Hugging Face
+- **Frameworks & Tools**: TensorFlow, PyTorch, Hugging Face, Git, Docker, Linux
 - **Languages**: Vietnamese (Native), English (Fluent)  
-- **Other Skills**: Machine Learning, Deep Learning, Data Analysis, NLP
+- **Other Skills**: Machine Learning, Deep Learning, Data Analysis, NLP, XAI
 
 ## References
 Available upon request
