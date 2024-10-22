@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: cvp
 title: Nguyen Phu Vinh
 ---
 # Nguyen Phu Vinh
